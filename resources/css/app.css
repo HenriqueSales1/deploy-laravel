@@ -44,7 +44,7 @@ nav li {
 
 nav a:hover {
     text-decoration: underline;
-    color: #ffcc00;
+    color: #ff5f45;
 }
 
 h1 {
@@ -115,7 +115,7 @@ textarea{
 }
 
 button {
-    background-color: #ffcc00;
+    background-color: #ff5f45;
     color: #000000;
     border: none;
     padding: 5px 10px;
@@ -166,13 +166,13 @@ label {
 #mercearia-menu h2{
     padding: 0;
     font-size: 4rem;
-    color: #ffcc00;
+    color: #ff5f45;
 }
 
 #mercearia-login h2{
     padding: 0;
     font-size: 4rem;
-    color: #ffcc00;
+    color: #ff5f45;
 }
 
 #mercearia-menu ul{
